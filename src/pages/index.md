@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/flavor_wheel.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Great crumpets with white priviledge
+subheading: Support fruit farming while enjoying a cuppa
 mainpitch:
   title: Why Kaldi
   description: >
