@@ -1,16 +1,18 @@
 ---
 templateKey: index-page
-title: Great crumpets with white sugar
-image: /img/flavor_wheel.jpg
+title: Reaching Out to Every Person in Perth
+image: /img/god-s-plan.png
 heading: Great crumpets with white sugar
-subheading: Support fruit farming while enjoying a cuppa
+subheading: -------------------------------------------------------------------------
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why Out There?
+  description: >-
+    We are a group of people who have started churches and ministries throughout
+    Africa, China, the South Pacific and Australia. We come from very different
+    Christian backgrounds, but are united in vision.
+
+
+    We are not operating under any kind of institution. We have recognized a need to return to a simpler biblical approach to living a Christian life, where we encounter God outside of the walls. So our time, money and energy can be used to further Gods’ kingdom rather than an organization.
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
