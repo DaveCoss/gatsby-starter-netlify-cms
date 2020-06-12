@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Great crumpets with white priviledge
 image: /img/flavor_wheel.jpg
 heading: Great crumpets with white priviledge
 subheading: Support fruit farming while enjoying a cuppa
