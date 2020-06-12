@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Reaching Out to Every Person in Perth
-image: /img/god-s-plan.png
+image: /img/perth-1368337_1920.jpg
 heading: Great crumpets with white sugar
 subheading: -------------------------------------------------------------------------
 mainpitch:
