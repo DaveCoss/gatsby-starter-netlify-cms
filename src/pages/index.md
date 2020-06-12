@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great crumpets with white priviledge
+title: Great crumpets with white sugar
 image: /img/flavor_wheel.jpg
-heading: Great crumpets with white priviledge
+heading: Great crumpets with white sugar
 subheading: Support fruit farming while enjoying a cuppa
 mainpitch:
   title: Why Kaldi
